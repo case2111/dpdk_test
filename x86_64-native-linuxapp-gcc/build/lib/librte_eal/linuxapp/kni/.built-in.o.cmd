@@ -1,1 +1,0 @@
-cmd_/home/kang/projects/nfs/dpdk-16.07/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/kni/built-in.o :=  rm -f /home/kang/projects/nfs/dpdk-16.07/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/kni/built-in.o; ar rcsD /home/kang/projects/nfs/dpdk-16.07/x86_64-native-linuxapp-gcc/build/lib/librte_eal/linuxapp/kni/built-in.o
